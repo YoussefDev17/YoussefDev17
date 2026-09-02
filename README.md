@@ -2,7 +2,8 @@
 <p>
   I'm a passionate <strong>.NET Full-Stack Desktop Developer</strong> with hands-on experience in building Windows Forms applications using <strong>C#</strong>, <strong>ADO.NET</strong>, and <strong>SQL Server</strong>. <br>
   <br>
-  I'm currently expanding my skills into <strong>mobile development</strong> with <strong>Flutter & Dart</strong>, and building modern <strong>RESTful APIs</strong> using <strong>ASP.NET Core</strong>. I enjoy creating complete, user-friendly applications and continuously improving my skills as a developer.
+  Currently, I'm expanding my expertise into Web Development. My goal is to become a professional Web & Mobile Developer by mastering modern web technologies and later building cross-platform mobile applications.
+
 </p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
